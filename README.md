@@ -34,12 +34,12 @@
 
 <p align="center">
 
-<div style="display: flex;flex-direction:column;justify-content: center;align-items: center;">
+<div align='center' style="display: flex;flex-direction:column;justify-content: center;align-items: center;">
     <div style="display: inline-block;padding:20px;text-align:center;border:1px solid rgb(141, 141, 141);border-radius: 5px;">
         <h3 style="align-text: center;">Languages & Frameworks - Back-End</h3>
         <br>
         <table>
-            <tr style="text-align: center;border: none;">
+            <tr align='center' style="text-align: center;border: none;">
                 <td style="border: none;">
                     <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="40" height="40" />
                 </td>
@@ -56,7 +56,7 @@
                     <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="40" height="40" />
                 </td>
             </tr>
-            <tr style="text-align: center;border: none;background-color: unset;">
+            <tr align='center' style="text-align: center;border: none;background-color: unset;">
                 <td style="border: none;">
                     <img src="https://img.shields.io/badge/C%23-blue" alt="C#" />
                 </td>
@@ -80,7 +80,7 @@
         <h3 style="align-text: center;">Languages & Frameworks - Front-End</h3>
         <br>
         <table>
-            <tr style="text-align: center;border: none;">
+            <tr align='center' style="text-align: center;border: none;">
                 <td style="border: none;">
                     <img src="https://skillicons.dev/icons?i=js" alt="C#" width="40" height="40" />
                 </td>
@@ -96,6 +96,27 @@
                 <td style="border: none;">
                     <img src="https://skillicons.dev/icons?i=jquery" alt="jQuery" width="40" height="40" />
                 </td>
+            </tr>
+            <tr align='center' style="text-align: center;border: none;background-color: unset;">
+                <td style="border: none;">
+                    <img src="https://img.shields.io/badge/JavaScript-blue" alt="C#" />
+                </td>
+                <td style="border: none;">
+                    <img src="https://img.shields.io/badge/HTML-blue" alt=".NET" />
+                </td>
+                <td style="border: none;">
+                    <img src="https://img.shields.io/badge/CSS-blue" alt="Java" />
+                </td>
+                <td style="border: none;">
+                    <img src="https://img.shields.io/badge/Bootstrap-blue" alt="Node.js" />
+                </td>
+                <td style="border: none;">
+                    <img src="https://img.shields.io/badge/jQuery-blue" alt="jQuery" />
+                </td>
+            </tr>
+        </table>
+        <table>
+            <tr align='center' style="text-align: center;border: none;">
                 <td style="border: none;">
                     <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40" />
                 </td>
@@ -112,22 +133,7 @@
                     <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="40" height="40" />
                 </td>
             </tr>
-            <tr style="text-align: center;border: none;background-color: unset;">
-                <td style="border: none;">
-                    <img src="https://img.shields.io/badge/JavaScript-blue" alt="C#" />
-                </td>
-                <td style="border: none;">
-                    <img src="https://img.shields.io/badge/HTML-blue" alt=".NET" />
-                </td>
-                <td style="border: none;">
-                    <img src="https://img.shields.io/badge/CSS-blue" alt="Java" />
-                </td>
-                <td style="border: none;">
-                    <img src="https://img.shields.io/badge/Bootstrap-blue" alt="Node.js" />
-                </td>
-                <td style="border: none;">
-                    <img src="https://img.shields.io/badge/jQuery-blue" alt="jQuery" />
-                </td>
+            <tr align='center' style="text-align: center;border: none;background-color: unset;">
                 <td style="border: none;">
                     <img src="https://img.shields.io/badge/React-blue" alt="React" />
                 </td>
@@ -151,7 +157,7 @@
         <h3 style="align-text: center;">Languages & Frameworks - Extras</h3>
         <br>
         <table>
-            <tr style="text-align: center;border: none;">
+            <tr align='center' style="text-align: center;border: none;">
                 <td style="border: none;">
                     <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="40" height="40" />
                 </td>
@@ -159,7 +165,7 @@
                     <img src="https://skillicons.dev/icons?i=powershell" alt="Powershell" width="40" height="40" />
                 </td>
             </tr>
-            <tr style="text-align: center;border: none;background-color: unset;">
+            <tr align='center' style="text-align: center;border: none;background-color: unset;">
                 <td style="border: none;">
                     <img src="https://img.shields.io/badge/Bash-blue" alt="Bash" />
                 </td>
@@ -174,7 +180,7 @@
         <h3 style="align-text: center;">Databases</h3>
         <br>
         <table>
-            <tr style="text-align: center;border: none;">
+            <tr align='center' style="text-align: center;border: none;">
                 <td style="border: none;">
                     <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40" />
                 </td>
@@ -188,7 +194,7 @@
                     <img src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/SQL_Server_Logo" alt="Microsoft SQL Server" width="40" height="40" />
                 </td>
             </tr>
-            <tr style="text-align: center;border: none;background-color: unset;">
+            <tr align='center' style="text-align: center;border: none;background-color: unset;">
                 <td style="border: none;">
                     <img src="https://img.shields.io/badge/MySQL-blue" alt="MySQL" />
                 </td>
@@ -209,7 +215,7 @@
         <h3 style="align-text: center;">Operating Systems</h3>
         <br>
         <table>
-            <tr style="text-align: center;border: none;">
+            <tr align='center' style="text-align: center;border: none;">
                 <td style="border: none;">
                     <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="40" height="40" />
                 </td>
@@ -232,7 +238,7 @@
                     <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" width="40" height="40" />
                 </td>
             </tr>
-            <tr style="text-align: center;border: none;background-color: unset;">
+            <tr align='center' style="text-align: center;border: none;background-color: unset;">
                 <td style="border: none;">
                     <img src="https://img.shields.io/badge/Windows-blue" alt="Windows" />
                 </td>
@@ -262,7 +268,7 @@
         <h3 style="align-text: center;">IDEs and Text Editors</h3>
         <br>
         <table>
-            <tr style="text-align: center;border: none;">
+            <tr align='center' style="text-align: center;border: none;">
                 <td style="border: none;">
                     <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" width="40" height="40" />
                 </td>
@@ -279,7 +285,7 @@
                     <img src="https://skillicons.dev/icons?i=sublime" alt="Sublime" width="40" height="40" />
                 </td>
             </tr>
-            <tr style="text-align: center;border: none;background-color: unset;">
+            <tr align='center' style="text-align: center;border: none;background-color: unset;">
                 <td style="border: none;">
                     <img src="https://img.shields.io/badge/Visual Studio-blue" alt="Visual Studio" />
                 </td>
@@ -303,7 +309,7 @@
         <h3 style="align-text: center;">Cloud Platforms</h3>
         <br>
         <table>
-            <tr style="text-align: center;border: none;">
+            <tr align='center' style="text-align: center;border: none;">
                 <td style="border: none;">
                     <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="40" height="40" />
                 </td>
@@ -317,7 +323,7 @@
                     <img src="https://blogs.vmware.com/wp-content/uploads/sites/103/2024/04/Screenshot-2024-04-05-at-16.12.42.png" alt="VMware" width="40" height="40" />
                 </td>
             </tr>
-            <tr style="text-align: center;border: none;background-color: unset;">
+            <tr align='center' style="text-align: center;border: none;background-color: unset;">
                 <td style="border: none;">
                     <img src="https://img.shields.io/badge/AWS-blue" alt="AWS" />
                 </td>
@@ -338,7 +344,7 @@
         <h3 style="align-text: center;">Extras</h3>
         <br>
         <table>
-            <tr style="text-align: center;border: none;">
+            <tr align='center' style="text-align: center;border: none;">
                 <td style="border: none;">
                     <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40" />
                 </td>
@@ -348,8 +354,11 @@
                 <td style="border: none;">
                     <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="40" height="40" />
                 </td>
+                <td style="border: none;">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN4q2KTFwfgdsfd2mzAeLKuyuwWALpaoBjlA&s" alt="SoapUI" width="40" height="40" />
+                </td>
             </tr>
-            <tr style="text-align: center;border: none;background-color: unset;">
+            <tr align='center' style="text-align: center;border: none;background-color: unset;">
                 <td style="border: none;">
                     <img src="https://img.shields.io/badge/Git-blue" alt="Git" />
                 </td>
@@ -358,6 +367,9 @@
                 </td>
                 <td style="border: none;">
                     <img src="https://img.shields.io/badge/Postman-blue" alt="Postman" />
+                </td>
+                <td style="border: none;">
+                    <img src="https://img.shields.io/badge/SoapUI-blue" alt="SoapUI" />
                 </td>
             </tr>
         </table>
