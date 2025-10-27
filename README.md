@@ -37,6 +37,43 @@
 <div style="display: flex;flex-direction:column;justify-content: center;align-items: center;">
     <div style="display: inline-block;padding:20px;text-align:center;border:1px solid rgb(141, 141, 141);border-radius: 5px;">
         <h3 style="align-text: center;">Languages & Frameworks - Back-End</h3>
+        <br>
+        <table>
+            <tr style="text-align: center;border: none;">
+                <td style="border: none;">
+                    <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="40" height="40" />
+                </td>
+                <td style="border: none;">
+                    <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" width="40" height="40" />
+                </td>
+                <td style="border: none;">
+                    <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40" />
+                </td>
+                <td style="border: none;">
+                    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40" />
+                </td>
+                <td style="border: none;">
+                    <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="40" height="40" />
+                </td>
+            </tr>
+            <tr style="text-align: center;border: none;background-color: unset;">
+                <td style="border: none;">
+                    <img src="https://img.shields.io/badge/C%23-blue" alt="C#" />
+                </td>
+                <td style="border: none;">
+                    <img src="https://img.shields.io/badge/.NET-blue" alt=".NET" />
+                </td>
+                <td style="border: none;">
+                    <img src="https://img.shields.io/badge/Java-blue" alt="Java" />
+                </td>
+                <td style="border: none;">
+                    <img src="https://img.shields.io/badge/Node.js-blue" alt="Node.js" />
+                </td>
+                <td style="border: none;">
+                    <img src="https://img.shields.io/badge/Express.js-blue" alt="Express.js" />
+                </td>
+            </tr>
+        </table>
         <div style="display: inline-block;text-align:center;padding:10px;">
             <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="40" height="40" />
             <br>
