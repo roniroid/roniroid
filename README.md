@@ -6,13 +6,19 @@
 
 <br>
 
-## **About me** 😃
+<div align='center'>
+    <h2>
+        <b>About me 😃</b> 
+    </h2>
+<br>
 
 <br>
 
+<div align='left'>
+  
 -   ✏️ 5+ years working on professional environments
 -   🔨 Clean code enthusiast
--   🐭 Curious Linux user
+-   🐧 Curious Linux user
 -   🗣️ Bilingual: English / Spanish
 -   🔐 Security-aware developer
 -   🌚 Back-End developer: .NET, Java, Node.js / MVC, SOAP, API
@@ -20,7 +26,14 @@
 -   📊 Database administrator: SQL Server, PostgreSQL, MySQL
 -   🌱 I’m currently learning about AI tools to improve my delivery times.
 
-<br><br>
+<br>
+
+<div align='center'>
+
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzl3OHY3bWJha3A0OHloOXMxYmV6aG1qdW8xYWRqODBldmRnenQzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kGEGuvnC9NFbuYX9pC/giphy.gif" alt="Stan - Seems fine" width="150" />
+
+<br>
+<br>
 
 <div align='center'>
 
@@ -28,7 +41,11 @@
 
 </div>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<div align='center'>
+    <h2>
+        <b><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b></b> 
+    </h2>
+<br>
 
 <br>
 
@@ -402,18 +419,16 @@
 </div>
 
 <br>
-<div align='center'>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-</div>
 
 <br>
 <br>
 <br>
 
-<div align='center'>
-    <h2>
-        <b>Open to work 🚪</b>
-    </h2>
+<div align="center">
+  <b>Open to work 🚪</b>
+  <br>
+  <br>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3lyeGhkNzZ4aXprcWllbHp1c2N1ODhrc3k5c3pnMDJpeHFubTAweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" alt="Hire me please..." width="200" />
 </div>
 
 <br>
