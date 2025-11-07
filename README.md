@@ -464,6 +464,23 @@
 <br>
 <br>
 
+<b>Certificates</b>
+
+<a href="https://cdn.filestackcontent.com/vAnwFFcaReGZWOVmHN4C?policy=eyJjYWxsIjpbInJlYWQiXSwiZXhwaXJ5IjoxNzYyNTU0MDg2LCJwYXRoIjoiLyJ9&signature=74383d3bfa646ef692aa4d302f48481ac6b905ea9b54181c68836a3ec4a5f328">
+    <img src="image.png" alt="Devtalles - Legacy - React Native" width="200" height="200" />
+</a>
+
+<a href="https://cdn.filestackcontent.com/vAnwFFcaReGZWOVmHN4C?policy=eyJjYWxsIjpbInJlYWQiXSwiZXhwaXJ5IjoxNzYyNTU0MDg2LCJwYXRoIjoiLyJ9&signature=74383d3bfa646ef692aa4d302f48481ac6b905ea9b54181c68836a3ec4a5f328">
+    <img src="image.png" alt="Devtalles - Legacy - React Native" width="200" height="200" />
+</a>
+
+<a href="https://cdn.filestackcontent.com/vAnwFFcaReGZWOVmHN4C?policy=eyJjYWxsIjpbInJlYWQiXSwiZXhwaXJ5IjoxNzYyNTU0MDg2LCJwYXRoIjoiLyJ9&signature=74383d3bfa646ef692aa4d302f48481ac6b905ea9b54181c68836a3ec4a5f328">
+    <img src="image.png" alt="Devtalles - Legacy - React Native" width="200" height="200" />
+</a>
+
+<br>
+<br>
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/roniroid"><img src="https://github-readme-stats.vercel.app/api?username=roniroid&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="roniroid's GitHub stats" /></a>
