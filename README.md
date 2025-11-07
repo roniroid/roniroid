@@ -486,6 +486,14 @@
     <img src="https://raw.githubusercontent.com/roniroid/roniroid/refs/heads/main/files/certificates/Credentials%20-%20ronaldjimenezfallas-0404%20_%20Microsoft%20Learn.png" alt="Devtalles - Docker" width="200" height="200" />
 </a>
 
+<a href="https://raw.githubusercontent.com/roniroid/roniroid/refs/heads/main/files/certificates/ccna-1.jpeg">
+    <img src="https://raw.githubusercontent.com/roniroid/roniroid/refs/heads/main/files/certificates/ccna-1.jpeg" alt="Devtalles - Docker" width="200" height="200" />
+</a>
+
+<a href="https://raw.githubusercontent.com/roniroid/roniroid/refs/heads/main/files/certificates/ccna.jpeg">
+    <img src="https://raw.githubusercontent.com/roniroid/roniroid/refs/heads/main/files/certificates/ccna.jpeg" alt="Devtalles - Docker" width="200" height="200" />
+</a>
+
 <br>
 <br>
 
