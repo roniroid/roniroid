@@ -466,16 +466,24 @@
 
 <b>Certificates</b>
 
-<a href="https://cdn.filestackcontent.com/vAnwFFcaReGZWOVmHN4C?policy=eyJjYWxsIjpbInJlYWQiXSwiZXhwaXJ5IjoxNzYyNTU0MDg2LCJwYXRoIjoiLyJ9&signature=74383d3bfa646ef692aa4d302f48481ac6b905ea9b54181c68836a3ec4a5f328">
+<a href="https://cursos.devtalles.com/certificates/7brc7nxcjq">
     <img src="http://cdn.filestackcontent.com/vAnwFFcaReGZWOVmHN4C?policy=eyJjYWxsIjpbInJlYWQiXSwiZXhwaXJ5IjoxNzYyNTU0MDg2LCJwYXRoIjoiLyJ9&signature=74383d3bfa646ef692aa4d302f48481ac6b905ea9b54181c68836a3ec4a5f328" alt="Devtalles - Legacy - React Native" width="200" height="200" />
 </a>
 
-<a href="https://cdn.filestackcontent.com/vAnwFFcaReGZWOVmHN4C?policy=eyJjYWxsIjpbInJlYWQiXSwiZXhwaXJ5IjoxNzYyNTU0MDg2LCJwYXRoIjoiLyJ9&signature=74383d3bfa646ef692aa4d302f48481ac6b905ea9b54181c68836a3ec4a5f328">
-    <img src="http://cdn.filestackcontent.com/vAnwFFcaReGZWOVmHN4C?policy=eyJjYWxsIjpbInJlYWQiXSwiZXhwaXJ5IjoxNzYyNTU0MDg2LCJwYXRoIjoiLyJ9&signature=74383d3bfa646ef692aa4d302f48481ac6b905ea9b54181c68836a3ec4a5f328" alt="Devtalles - Legacy - React Native" width="200" height="200" />
+<a href="https://cursos.devtalles.com/certificates/okkrv69qt1">
+    <img src="https://cdn.filestackcontent.com/zhKWdSivT7yHGFxLFOW8?policy=eyJjYWxsIjpbInJlYWQiXSwiZXhwaXJ5IjoxNzYyNTU0MDkyLCJwYXRoIjoiLyJ9&signature=168b364f32d25ea55ab8a487d884bffd043ef94c333cee27b3f46616a279c378" alt="Devtalles - React - Zero to Expert" width="200" height="200" />
 </a>
 
-<a href="https://cdn.filestackcontent.com/vAnwFFcaReGZWOVmHN4C?policy=eyJjYWxsIjpbInJlYWQiXSwiZXhwaXJ5IjoxNzYyNTU0MDg2LCJwYXRoIjoiLyJ9&signature=74383d3bfa646ef692aa4d302f48481ac6b905ea9b54181c68836a3ec4a5f328">
-    <img src="http://cdn.filestackcontent.com/vAnwFFcaReGZWOVmHN4C?policy=eyJjYWxsIjpbInJlYWQiXSwiZXhwaXJ5IjoxNzYyNTU0MDg2LCJwYXRoIjoiLyJ9&signature=74383d3bfa646ef692aa4d302f48481ac6b905ea9b54181c68836a3ec4a5f328" alt="Devtalles - Legacy - React Native" width="200" height="200" />
+<a href="https://cursos.devtalles.com/certificates/r51kvahegh">
+    <img src="https://cdn.filestackcontent.com/bYvAdpTrTnCCxr3N4uhA?policy=eyJjYWxsIjpbInJlYWQiXSwiZXhwaXJ5IjoxNzYyNTU0MDk0LCJwYXRoIjoiLyJ9&signature=129403320a68f46a966509980d1b20f301b57435196686db676752f5e49f8ceb" alt="Devtalles - Legacy - React Native" width="200" height="200" />
+</a>
+
+<a href="https://cursos.devtalles.com/certificates/aoxezmhb50">
+    <img src="https://cdn.filestackcontent.com/DayVaDUbTRWyv5ac1VrE?policy=eyJjYWxsIjpbInJlYWQiXSwiZXhwaXJ5IjoxNzYyNTU0MDk2LCJwYXRoIjoiLyJ9&signature=95bb6e53947b43cdfa2a3c0cf6b1d09b6db1f75853ba45b991fb4592912f20ea" alt="Devtalles - Docker" width="200" height="200" />
+</a>
+
+<a href="https://learn.microsoft.com/en-us/users/ronaldjimenezfallas-0404/credentials/certification/security-compliance-and-identity-fundamentals?tab=credentials-tab">
+    <img src="https://raw.githubusercontent.com/roniroid/roniroid/refs/heads/main/files/certificates/Credentials%20-%20ronaldjimenezfallas-0404%20_%20Microsoft%20Learn.png" alt="Devtalles - Docker" width="200" height="200" />
 </a>
 
 <br>
