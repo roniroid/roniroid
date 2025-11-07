@@ -467,15 +467,15 @@
 <b>Certificates</b>
 
 <a href="https://cdn.filestackcontent.com/vAnwFFcaReGZWOVmHN4C?policy=eyJjYWxsIjpbInJlYWQiXSwiZXhwaXJ5IjoxNzYyNTU0MDg2LCJwYXRoIjoiLyJ9&signature=74383d3bfa646ef692aa4d302f48481ac6b905ea9b54181c68836a3ec4a5f328">
-    <img src="image.png" alt="Devtalles - Legacy - React Native" width="200" height="200" />
+    <img src="http://cdn.filestackcontent.com/vAnwFFcaReGZWOVmHN4C?policy=eyJjYWxsIjpbInJlYWQiXSwiZXhwaXJ5IjoxNzYyNTU0MDg2LCJwYXRoIjoiLyJ9&signature=74383d3bfa646ef692aa4d302f48481ac6b905ea9b54181c68836a3ec4a5f328" alt="Devtalles - Legacy - React Native" width="200" height="200" />
 </a>
 
 <a href="https://cdn.filestackcontent.com/vAnwFFcaReGZWOVmHN4C?policy=eyJjYWxsIjpbInJlYWQiXSwiZXhwaXJ5IjoxNzYyNTU0MDg2LCJwYXRoIjoiLyJ9&signature=74383d3bfa646ef692aa4d302f48481ac6b905ea9b54181c68836a3ec4a5f328">
-    <img src="image.png" alt="Devtalles - Legacy - React Native" width="200" height="200" />
+    <img src="http://cdn.filestackcontent.com/vAnwFFcaReGZWOVmHN4C?policy=eyJjYWxsIjpbInJlYWQiXSwiZXhwaXJ5IjoxNzYyNTU0MDg2LCJwYXRoIjoiLyJ9&signature=74383d3bfa646ef692aa4d302f48481ac6b905ea9b54181c68836a3ec4a5f328" alt="Devtalles - Legacy - React Native" width="200" height="200" />
 </a>
 
 <a href="https://cdn.filestackcontent.com/vAnwFFcaReGZWOVmHN4C?policy=eyJjYWxsIjpbInJlYWQiXSwiZXhwaXJ5IjoxNzYyNTU0MDg2LCJwYXRoIjoiLyJ9&signature=74383d3bfa646ef692aa4d302f48481ac6b905ea9b54181c68836a3ec4a5f328">
-    <img src="image.png" alt="Devtalles - Legacy - React Native" width="200" height="200" />
+    <img src="http://cdn.filestackcontent.com/vAnwFFcaReGZWOVmHN4C?policy=eyJjYWxsIjpbInJlYWQiXSwiZXhwaXJ5IjoxNzYyNTU0MDg2LCJwYXRoIjoiLyJ9&signature=74383d3bfa646ef692aa4d302f48481ac6b905ea9b54181c68836a3ec4a5f328" alt="Devtalles - Legacy - React Native" width="200" height="200" />
 </a>
 
 <br>
