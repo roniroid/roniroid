@@ -544,16 +544,4 @@
 <br>
 <br>
 
-<div align="center">
-  <b>Open to work 🚪</b>
-  <br>
-  <br>
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3lyeGhkNzZ4aXprcWllbHp1c2N1ODhrc3k5c3pnMDJpeHFubTAweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" alt="Hire me please..." width="200" />
-</div>
-
-<br>
-<br>
-<br>
-<br>
-
 ---
